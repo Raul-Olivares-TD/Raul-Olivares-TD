@@ -9,7 +9,7 @@
 <br><br>
 - 🏫: I am a Houdini TD/Technical Artist at [PlanetaCG](https://planetacg.com/master-vfx-houdini-cine-videojuegos/) and [Visualnoobs](https://visualnoobs.com/).
 - ❤️: I love FX, Proceduralism, Video Games and Cinematics.
-- 👨‍🎓: I’m currently learning Python, Houdini and Unreal Engine 5.
+- 🧮: I’m currently learning Python, Houdini and Unreal Engine 5.
 - 🤓: Always `learning new things`.
 - 🤔: I’m currently open for a new `job opportunity`.
 <br>
