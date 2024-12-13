@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- 🏫: I am a Houdini TD/Technical Artist at [PlanetaCG](https://planetacg.com/master-vfx-houdini-cine-videojuegos/) and [Visualnoobs](https://visualnoobs.com/).
+- 🏫: I am a `Houdini TD/Technical Artist` at [PlanetaCG](https://planetacg.com/master-vfx-houdini-cine-videojuegos/) and [Visualnoobs](https://visualnoobs.com/).
 - ❤️: I love `FX`, `Proceduralism`, `Video Games` and `Cinematics`.
 - 🧮: I’m currently learning `Python`, `Houdini` and `Unreal Engine 5`.
 - 🤓: Always `learning new things`.
