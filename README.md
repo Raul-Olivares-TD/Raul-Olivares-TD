@@ -5,9 +5,6 @@
   ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
   
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-</p>
-<p>
   
   - 🏫: I am a `Houdini TD/Technical Artist` at [PlanetaCG](https://planetacg.com/master-vfx-houdini-cine-videojuegos/) and [Visualnoobs](https://visualnoobs.com/).
   - ❤️: I love `FX`, `Proceduralism`, `Video Games` and `Cinematics`.
