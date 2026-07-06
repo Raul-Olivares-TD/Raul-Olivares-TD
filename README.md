@@ -10,7 +10,7 @@
 
 **Pipeline Technical Director** building production software for artists and studios.
 
-Specialising in tooling, automation and pipeline architecture across VFX, animation and game workflows — focused on making production pipelines simpler, faster and more reliable.
+Specialising in tooling, automation and pipeline architecture across VFX, animation and game workflows focused on making production pipelines simpler, faster and more reliable.
 
 </div>
 
@@ -21,10 +21,10 @@ Specialising in tooling, automation and pipeline architecture across VFX, animat
 
 <h3>CORE EXPERTISE</h3>
 
-<img src="cards/pipeline-arch.svg" width="240" alt="Pipeline Architecture" />&nbsp;&nbsp;
+<img src="cards/pipeline-arch.svg" width="240" alt="Pipeline Development" />&nbsp;&nbsp;
 <img src="cards/automation.svg" width="240" alt="Automation" />&nbsp;&nbsp;
 <img src="cards/tool-dev.svg" width="240" alt="Tool Development" />&nbsp;&nbsp;
-<img src="cards/usd.svg" width="240" alt="USD" />
+<!-- <img src="cards/usd.svg" width="240" alt="USD" /> -->
 
 </div>
 
