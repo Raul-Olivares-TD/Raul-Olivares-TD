@@ -55,7 +55,7 @@ Specialising in tooling, automation and pipeline architecture across VFX, animat
 <img src="cards/python.svg" width="240" alt="Python" />&nbsp;&nbsp;
 <img src="cards/houdini.svg" width="240" alt="Houdini" />&nbsp;&nbsp;
 <img src="cards/usd-tech.svg" width="240" alt="USD" />&nbsp;&nbsp;
-<img src="cards/qt.svg" width="240" alt="Qt" /><br/><br/>
+<img src="cards/qt.svg" width="240" alt="Qt" />
 <img src="cards/git.svg" width="240" alt="Git" />
 
 </div>
