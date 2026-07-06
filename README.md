@@ -65,15 +65,6 @@ Specialising in tooling, automation and pipeline architecture across VFX, animat
 <!-- GITHUB STATS -->
 <div align="center">
 
-<h3>GITHUB STATS</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raul-Olivares-TD&show_icons=true&theme=transparent&hide_border=true&count_private=true&line_height=28&title_color=3776AB&icon_color=FF4713&text_color=F0F6FC" height="170" alt="Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-Olivares-TD&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=F0F6FC" height="170" alt="Top languages" />
-
-<br/>
-<br/>
-
 <img src="https://raw.githubusercontent.com/Raul-Olivares-TD/Raul-Olivares-TD/output/github-contribution-grid-snake.svg" width="70%" alt="Contribution snake" />
 
 </div>
