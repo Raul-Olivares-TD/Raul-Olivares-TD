@@ -65,6 +65,11 @@ Specialising in tooling, automation and pipeline architecture across VFX, animat
 <!-- GITHUB STATS -->
 <div align="center">
 
+<h3>GITHUB GRID</h3>
+
+<br/>
+<br/>
+
 <img src="https://raw.githubusercontent.com/Raul-Olivares-TD/Raul-Olivares-TD/output/github-contribution-grid-snake.svg" width="70%" alt="Contribution snake" />
 
 </div>
