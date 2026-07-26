@@ -31,6 +31,9 @@ Specialising in tooling, automation, and pipeline architecture across VFX, anima
 * PySide
 * Python in Houdini
 * Python in Blender
+* Python in Maya
+* Python in Nuke
+* USD
 * Artist tools
 * Studio pipelines
 
