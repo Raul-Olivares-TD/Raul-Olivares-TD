@@ -1,92 +1,56 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Raul Olivares - Pipeline Technical Director" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Raul+Olivares;Pipeline+Technical+Director;VFX+%7C+Animation+%7C+Games" alt="Typing SVG" />
 
-<br/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Pipeline%20TD-VFX%20%7C%20Animation%20%7C%20Games-0e75b6?style=for-the-badge" alt="Pipeline TD" />
+  <img src="https://img.shields.io/badge/Procedural-8a2be2?style=for-the-badge" alt="Procedural" />
+  <img src="https://img.shields.io/badge/Tools%20%26%20Pipelines-ff6b6b?style=for-the-badge" alt="Tools and Pipelines" />
+</p>
 
-<!-- ABOUT -->
-<div align="center">
-
-**Pipeline Technical Director** building production software for artists and studios.
-
-Specialising in tooling, automation and pipeline architecture across VFX, animation and game workflows focused on making production pipelines simpler, faster and more reliable.
-
-</div>
-
-<br/>
-
-<!-- CORE EXPERTISE -->
-<div align="center">
-
-<h3>CORE EXPERTISE</h3>
-
-<img src="cards/pipeline-arch.svg" width="240" alt="Pipeline Development" />&nbsp;&nbsp;
-<img src="cards/automation.svg" width="240" alt="Automation" />&nbsp;&nbsp;
-<img src="cards/tool-dev.svg" width="240" alt="Tool Development" />&nbsp;&nbsp;
-<!-- <img src="cards/usd.svg" width="240" alt="USD" /> -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PySide-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide" />
+  <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=sidefx&logoColor=white" alt="Houdini" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
+</p>
 
 </div>
 
-<br/>
+---
 
-<!-- SELECTED WORK -->
-<div align="center">
+## About
 
-<h3>SELECTED WORK</h3>
+**Pipeline Technical Director building production software for artists and studios.**
+Specialising in tooling, automation, and pipeline architecture across VFX, animation, and game workflows focused on making production pipelines **simpler, faster, and more reliable**.
 
-<i>Demo reels &amp; real-world pipeline work.</i>
+## Stack
 
-<br/>
-<br/>
+* Python
+* PySide
+* Python in Houdini
+* Python in Blender
+* Artist tools
+* Studio pipelines
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7320437179111956480/"><img src="cards/case-01.svg" width="280" alt="Case 01" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7404458323950882816/"><img src="cards/case-02.svg" width="280" alt="Case 02" /></a>
+## Reels
 
-</div>
+<p align="center"> <a href="https://www.linkedin.com/posts/raul-olivares-fx_pipelinetd-vfx-houdini-ugcPost-7404458006354169856-ihr2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkQGVsBp3UxdmgU5iyRbMnwOA2JnyKwsUQ"> <img src="https://img.shields.io/badge/%E2%96%B6%20FXD%20Pipeline%20Reel-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="FXD Pipeline Develompent Reel" /> </a> <a href="https://www.linkedin.com/posts/raul-olivares-fx_pipelinetd-python-houdini-ugcPost-7320437083536351232-qRY2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkQGVsBp3UxdmgU5iyRbMnwOA2JnyKwsUQ"> <img src="https://img.shields.io/badge/%E2%96%B6%20%20Pipeline tools%20Reel-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pipeline tools Reel" /> </a> </p>
 
-<br/>
+<p align="center"> <img src="https://img.shields.io/badge/Houdini%20Tools-ff6b6b?style=flat-square" alt="Houdini Tools" /> <img src="https://img.shields.io/badge/Procedural%20Workflows-8a2be2?style=flat-square" alt="Procedural Workflows" /> <img src="https://img.shields.io/badge/Artist%20Friendly-22c55e?style=flat-square" alt="Artist Friendly" /> <img src="https://img.shields.io/badge/Production%20Ready-f59e0b?style=flat-square" alt="Production Ready" /> <img src="https://img.shields.io/badge/Pipeline%20Automation-06b6d4?style=flat-square" alt="Pipeline Automation" /> </p>
 
-<!-- TECHNOLOGY -->
-<div align="center">
 
-<h3>TECHNOLOGY</h3>
-
-<img src="cards/python.svg" width="240" alt="Python" />&nbsp;&nbsp;
-<img src="cards/houdini.svg" width="240" alt="Houdini" />&nbsp;&nbsp;
-<img src="cards/usd-tech.svg" width="240" alt="USD" />&nbsp;&nbsp;
-<img src="cards/qt.svg" width="240" alt="Qt" />
-<img src="cards/git.svg" width="240" alt="Git" />
-
-</div>
-
-<br/>
-
-<!-- GITHUB STATS -->
-<div align="center">
-
-<h3>GITHUB GRID</h3>
-
-<img src="https://raw.githubusercontent.com/Raul-Olivares-TD/Raul-Olivares-TD/output/github-contribution-grid-snake.svg" width="70%" alt="Contribution snake" />
-
-</div>
-
-<br/>
-
-<!-- CONTACT -->
-<div align="center">
-
-<h3>CONTACT</h3>
-
-<a href="mailto:raulfxtd@gmail.com"><img src="https://img.shields.io/badge/email-3776AB?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/raul-olivares-fx/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/Raul-Olivares-TD"><img src="https://img.shields.io/badge/github-24292F?style=flat-square&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-<br/>
+---
 
 <div align="center">
-<sub>Built as a product, not a template.</sub>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raul-Olivares-TD/Raul-Olivares-TD/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raul-Olivares-TD/Raul-Olivares-TD/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Raul-Olivares-TD/Raul-Olivares-TD/output/github-snake.svg" />
+  </picture>
+</p>
+
 </div>
