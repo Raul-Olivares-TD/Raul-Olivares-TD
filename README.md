@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/PySide-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide" />
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=sidefx&logoColor=white" alt="Houdini" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
 </p>
 
 </div>
