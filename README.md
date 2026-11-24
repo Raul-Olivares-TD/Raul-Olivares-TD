@@ -11,7 +11,9 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PySide-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide" />
-  <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=sidefx&logoColor=white" alt="Houdini" />
+  <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=houdini&logoColor=white" alt="Houdini" />
+  <img src="https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodeskmaya&logoColor=white" alt="Maya" />
+  <img src="https://img.shields.io/badge/Nuke-000000?style=flat-square&logo=nuke&logoColor=white" alt="Nuke" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
