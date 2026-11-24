@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Raúl+Olivares;Pipeline+Technical+Director;VFX+%7C+Animation+%7C+Games" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Raul+Olivares;Pipeline+Technical+Director;VFX+%7C+Animation+%7C+Games" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Pipeline%20TD-VFX%20%7C%20Animation%20%7C%20Games-0e75b6?style=for-the-badge" alt="Pipeline TD" />
